@@ -1,7 +1,7 @@
 {
   "name": "codemommy/curlphp",
   "version": "0.0.1",
-  "description": "CodeMommy CurlPHP is a CURL helper for web development.",
+  "description": "Do CURL by an elegant way",
   "keywords": [
     "CodeMommy",
     "CurlPHP",

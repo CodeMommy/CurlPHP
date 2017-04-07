@@ -6,8 +6,7 @@
 [![Unstable](https://poser.pugx.org/CodeMommy/CurlPHP/v/unstable?format=flat-square)](https://packagist.org/packages/CodeMommy/CurlPHP)
 [![composer.lock Available](https://poser.pugx.org/CodeMommy/CurlPHP/composerlock?format=flat-square)](https://packagist.org/packages/CodeMommy/CurlPHP)
 
-
-> CodeMommy CurlPHP is a request helper for web development.
+> Do CURL by an elegant way
 
 Visit [CodeMommy Website](http://www.codemommy.com) or [Packagist](https://packagist.org/packages/CodeMommy/CurlPHP) to get more information.
 
